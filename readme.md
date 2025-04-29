@@ -8,3 +8,4 @@ A circular time visualization using p5.js that displays seconds, minutes, hours,
 - Deployed using GitHub + Cloudflare Pages
 
 ## Live Demo
+[https://cosmic-clock.pages.dev](https://cosmic-clock.pages.dev/)
